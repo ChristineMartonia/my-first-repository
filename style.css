@@ -1,0 +1,30 @@
+var-------
+bnjhghgbhgbh
+hj
+*{
+    margin: 0;
+    padding: 0;
+
+}
+header.header-logo{
+    background: transparent;
+    width: 100%;
+    height: 20%;
+}
+.header-logo a{
+    font-family: "lora-regular",serif;
+    font-size: 2.7rem;
+    color: #FAF3E3;
+}
+body{
+    background: #111111;
+}
+img{
+    filter: brightness(50%);
+    position: absolute;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    border-style: none;
+}
+
